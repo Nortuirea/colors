@@ -1,598 +1,601 @@
-[
-	{
-		"color":"aliceblue",
-		"rgb":[240, 248, 255, 1]
-	},
-	{
-		"color":"antiquewhite",
-		"rgb":[250, 235, 215, 1]
-	},
-	{
-		"color":"aqua",
-		"rgb":[0, 255, 255, 1]
-	},
-	{
-		"color":"aquamarine",
-		"rgb":[127, 255, 212, 1]
-	},
-	{
-		"color":"azure",
-		"rgb":[240, 255, 255, 1]
-	},
-	{
-		"color":"beige",
-		"rgb":[245, 245, 220, 1]
-	},
-	{
-		"color":"bisque",
-		"rgb":[255, 228, 196, 1]
-	},
-	{
-		"color":"black",
-		"rgb":[0, 0, 0, 1]
-	},
-	{
-		"color":"blanchedalmond",
-		"rgb":[255, 235, 205, 1]
-	},
-	{
-		"color":"blue",
-		"rgb":[0, 0, 255, 1]
-	},
-	{
-		"color":"blueviolet",
-		"rgb":[138, 43, 226, 1]
-	},
-	{
-		"color":"brown",
-		"rgb":[165, 42, 42, 1]
-	},
-	{
-		"color":"burlywood",
-		"rgb":[222, 184, 135, 1]
-	},
-	{
-		"color":"cadetblue",
-		"rgb":[95, 158, 160, 1]
-	},
-	{
-		"color":"chartreuse",
-		"rgb":[127, 255, 0, 1]
-	},
-	{
-		"color":"chocolate",
-		"rgb":[210, 105, 30, 1]
-	},
-	{
-		"color":"coral",
-		"rgb":[255, 127, 80, 1]
-	},
-	{
-		"color":"cornflowerblue",
-		"rgb":[100, 149, 237, 1]
-	},
-	{
-		"color":"cornsilk",
-		"rgb":[255, 248, 220, 1]
-	},
-	{
-		"color":"crimson",
-		"rgb":[220, 20, 60, 1]
-	},
-	{
-		"color":"cyan",
-		"rgb":[0, 255, 255, 1]
-	},
-	{
-		"color":"darkblue",
-		"rgb":[0, 0, 139, 1]
-	},
-	{
-		"color":"darkcyan",
-		"rgb":[0, 139, 139, 1]
-	},
-	{
-		"color":"darkgoldenrod",
-		"rgb":[184, 134, 11, 1]
-	},
-	{
-		"color":"darkgray",
-		"rgb":[169, 169, 169, 1]
-	},
-	{
-		"color":"darkgreen",
-		"rgb":[0, 100, 0, 1]
-	},
-	{
-		"color":"darkgrey",
-		"rgb":[169, 169, 169, 1]
-	},
-	{
-		"color":"darkkhaki",
-		"rgb":[189, 183, 107, 1]
-	},
-	{
-		"color":"darkmagenta",
-		"rgb":[139, 0, 139, 1]
-	},
-	{
-		"color":"darkolivegreen",
-		"rgb":[85, 107, 47, 1]
-	},
-	{
-		"color":"darkorange",
-		"rgb":[255, 140, 0, 1]
-	},
-	{
-		"color":"darkorchid",
-		"rgb":[153, 50, 204, 1]
-	},
-	{
-		"color":"darkred",
-		"rgb":[139, 0, 0, 1]
-	},
-	{
-		"color":"darksalmon",
-		"rgb":[233, 150, 122, 1]
-	},
-	{
-		"color":"darkseagreen",
-		"rgb":[143, 188, 143, 1]
-	},
-	{
-		"color":"darkslateblue",
-		"rgb":[72, 61, 139, 1]
-	},
-	{
-		"color":"darkslategray",
-		"rgb":[47, 79, 79, 1]
-	},
-	{
-		"color":"darkslategrey",
-		"rgb":[47, 79, 79, 1]
-	},
-	{
-		"color":"darkturquoise",
-		"rgb":[0, 206, 209, 1]
-	},
-	{
-		"color":"darkviolet",
-		"rgb":[148, 0, 211, 1]
-	},
-	{
-		"color":"deeppink",
-		"rgb":[255, 20, 147, 1]
-	},
-	{
-		"color":"deepskyblue",
-		"rgb":[0, 191, 255, 1]
-	},
-	{
-		"color":"dimgray",
-		"rgb":[105, 105, 105, 1]
-	},
-	{
-		"color":"dimgrey",
-		"rgb":[105, 105, 105, 1]
-	},
-	{
-		"color":"dodgerblue",
-		"rgb":[30, 144, 255, 1]
-	},
-	{
-		"color":"firebrick",
-		"rgb":[178, 34, 34, 1]
-	},
-	{
-		"color":"floralwhite",
-		"rgb":[255, 250, 240, 1]
-	},
-	{
-		"color":"forestgreen",
-		"rgb":[34, 139, 34, 1]
-	},
-	{
-		"color":"fuchsia",
-		"rgb":[255, 0, 255, 1]
-	},
-	{
-		"color":"gainsboro",
-		"rgb":[220, 220, 220, 1]
-	},
-	{
-		"color":"ghostwhite",
-		"rgb":[248, 248, 255, 1]
-	},
-	{
-		"color":"gold",
-		"rgb":[255, 215, 0, 1]
-	},
-	{
-		"color":"goldenrod",
-		"rgb":[218, 165, 32, 1]
-	},
-	{
-		"color":"gray",
-		"rgb":[128, 128, 128, 1]
-	},
-	{
-		"color":"green",
-		"rgb":[0, 128, 0, 1]
-	},
-	{
-		"color":"greenyellow",
-		"rgb":[173, 255, 47, 1]
-	},
-	{
-		"color":"grey",
-		"rgb":[128, 128, 128, 1]
-	},
-	{
-		"color":"honeydew",
-		"rgb":[240, 255, 240, 1]
-	},
-	{
-		"color":"hotpink",
-		"rgb":[255, 105, 180, 1]
-	},
-	{
-		"color":"indianred",
-		"rgb":[205, 92, 92, 1]
-	},
-	{
-		"color":"indigo",
-		"rgb":[75, 0, 130, 1]
-	},
-	{
-		"color":"ivory",
-		"rgb":[255, 255, 240, 1]
-	},
-	{
-		"color":"khaki",
-		"rgb":[240, 230, 140, 1]
-	},
-	{
-		"color":"lavender",
-		"rgb":[230, 230, 250, 1]
-	},
-	{
-		"color":"lavenderblush",
-		"rgb":[255, 240, 245, 1]
-	},
-	{
-		"color":"lawngreen",
-		"rgb":[124, 252, 0, 1]
-	},
-	{
-		"color":"lemonchiffon",
-		"rgb":[255, 250, 205, 1]
-	},
-	{
-		"color":"lightblue",
-		"rgb":[173, 216, 230, 1]
-	},
-	{
-		"color":"lightcoral",
-		"rgb":[240, 128, 128, 1]
-	},
-	{
-		"color":"lightcyan",
-		"rgb":[224, 255, 255, 1]
-	},
-	{
-		"color":"lightgoldenrodyellow",
-		"rgb":[250, 250, 210, 1]
-	},
-	{
-		"color":"lightgray",
-		"rgb":[211, 211, 211, 1]
-	},
-	{
-		"color":"lightgreen",
-		"rgb":[144, 238, 144, 1]
-	},
-	{
-		"color":"lightgrey",
-		"rgb":[211, 211, 211, 1]
-	},
-	{
-		"color":"lightpink",
-		"rgb":[255, 182, 193, 1]
-	},
-	{
-		"color":"lightsalmon",
-		"rgb":[255, 160, 122, 1]
-	},
-	{
-		"color":"lightseagreen",
-		"rgb":[32, 178, 170, 1]
-	},
-	{
-		"color":"lightskyblue",
-		"rgb":[135, 206, 250, 1]
-	},
-	{
-		"color":"lightslategray",
-		"rgb":[119, 136, 153, 1]
-	},
-	{
-		"color":"lightslategrey",
-		"rgb":[119, 136, 153, 1]
-	},
-	{
-		"color":"lightsteelblue",
-		"rgb":[176, 196, 222, 1]
-	},
-	{
-		"color":"lightyellow",
-		"rgb":[255, 255, 224, 1]
-	},
-	{
-		"color":"lime",
-		"rgb":[0, 255, 0, 1]
-	},
-	{
-		"color":"limegreen",
-		"rgb":[50, 205, 50, 1]
-	},
-	{
-		"color":"linen",
-		"rgb":[250, 240, 230, 1]
-	},
-	{
-		"color":"magenta",
-		"rgb":[255, 0, 255, 1]
-	},
-	{
-		"color":"maroon",
-		"rgb":[128, 0, 0, 1]
-	},
-	{
-		"color":"mediumaquamarine",
-		"rgb":[102, 205, 170, 1]
-	},
-	{
-		"color":"mediumblue",
-		"rgb":[0, 0, 205, 1]
-	},
-	{
-		"color":"mediumorchid",
-		"rgb":[186, 85, 211, 1]
-	},
-	{
-		"color":"mediumpurple",
-		"rgb":[147, 112, 219, 1]
-	},
-	{
-		"color":"mediumseagreen",
-		"rgb":[60, 179, 113, 1]
-	},
-	{
-		"color":"mediumslateblue",
-		"rgb":[123, 104, 238, 1]
-	},
-	{
-		"color":"mediumspringgreen",
-		"rgb":[0, 250, 154, 1]
-	},
-	{
-		"color":"mediumturquoise",
-		"rgb":[72, 209, 204, 1]
-	},
-	{
-		"color":"mediumvioletred",
-		"rgb":[199, 21, 133, 1]
-	},
-	{
-		"color":"midnightblue",
-		"rgb":[25, 25, 112, 1]
-	},
-	{
-		"color":"mintcream",
-		"rgb":[245, 255, 250, 1]
-	},
-	{
-		"color":"mistyrose",
-		"rgb":[255, 228, 225, 1]
-	},
-	{
-		"color":"moccasin",
-		"rgb":[255, 228, 181, 1]
-	},
-	{
-		"color":"navajowhite",
-		"rgb":[255, 222, 173, 1]
-	},
-	{
-		"color":"navy",
-		"rgb":[0, 0, 128, 1]
-	},
-	{
-		"color":"oldlace",
-		"rgb":[253, 245, 230, 1]
-	},
-	{
-		"color":"olive",
-		"rgb":[128, 128, 0, 1]
-	},
-	{
-		"color":"olivedrab",
-		"rgb":[107, 142, 35, 1]
-	},
-	{
-		"color":"orange",
-		"rgb":[255, 165, 0, 1]
-	},
-	{
-		"color":"orangered",
-		"rgb":[255, 69, 0, 1]
-	},
-	{
-		"color":"orchid",
-		"rgb":[218, 112, 214, 1]
-	},
-	{
-		"color":"palegoldenrod",
-		"rgb":[238, 232, 170, 1]
-	},
-	{
-		"color":"palegreen",
-		"rgb":[152, 251, 152, 1]
-	},
-	{
-		"color":"paleturquoise",
-		"rgb":[175, 238, 238, 1]
-	},
-	{
-		"color":"palevioletred",
-		"rgb":[219, 112, 147, 1]
-	},
-	{
-		"color":"papayawhip",
-		"rgb":[255, 239, 213, 1]
-	},
-	{
-		"color":"peachpuff",
-		"rgb":[255, 218, 185, 1]
-	},
-	{
-		"color":"peru",
-		"rgb":[205, 133, 63, 1]
-	},
-	{
-		"color":"pink",
-		"rgb":[255, 192, 203, 1]
-	},
-	{
-		"color":"plum",
-		"rgb":[221, 160, 221, 1]
-	},
-	{
-		"color":"powderblue",
-		"rgb":[176, 224, 230, 1]
-	},
-	{
-		"color":"purple",
-		"rgb":[128, 0, 128, 1]
-	},
-	{
-		"color":"red",
-		"rgb":[255, 0, 0, 1]
-	},
-	{
-		"color":"rosybrown",
-		"rgb":[188, 143, 143, 1]
-	},
-	{
-		"color":"royalblue",
-		"rgb":[65, 105, 225, 1]
-	},
-	{
-		"color":"saddlebrown",
-		"rgb":[139, 69, 19, 1]
-	},
-	{
-		"color":"salmon",
-		"rgb":[250, 128, 114, 1]
-	},
-	{
-		"color":"sandybrown",
-		"rgb":[244, 164, 96, 1]
-	},
-	{
-		"color":"seagreen",
-		"rgb":[46, 139, 87, 1]
-	},
-	{
-		"color":"seashell",
-		"rgb":[255, 245, 238, 1]
-	},
-	{
-		"color":"sienna",
-		"rgb":[160, 82, 45, 1]
-	},
-	{
-		"color":"silver",
-		"rgb":[192, 192, 192, 1]
-	},
-	{
-		"color":"skyblue",
-		"rgb":[135, 206, 235, 1]
-	},
-	{
-		"color":"slateblue",
-		"rgb":[106, 90, 205, 1]
-	},
-	{
-		"color":"slategray",
-		"rgb":[112, 128, 144, 1]
-	},
-	{
-		"color":"slategrey",
-		"rgb":[112, 128, 144, 1]
-	},
-	{
-		"color":"snow",
-		"rgb":[255, 250, 250, 1]
-	},
-	{
-		"color":"springgreen",
-		"rgb":[0, 255, 127, 1]
-	},
-	{
-		"color":"steelblue",
-		"rgb":[70, 130, 180, 1]
-	},
-	{
-		"color":"tan",
-		"rgb":[210, 180, 140, 1]
-	},
-	{
-		"color":"teal",
-		"rgb":[0, 128, 128, 1]
-	},
-	{
-		"color":"thistle",
-		"rgb":[216, 191, 216, 1]
-	},
-	{
-		"color":"tomato",
-		"rgb":[255, 99, 71, 1]
-	},
-	{
-		"color":"transparent",
-		"rgb":[0, 0, 0, 0]
-	},
-	{
-		"color":"turquoise",
-		"rgb":[64, 224, 208, 1]
-	},
-	{
-		"color":"violet",
-		"rgb":[238, 130, 238, 1]
-	},
-	{
-		"color":"wheat",
-		"rgb":[245, 222, 179, 1]
-	},
-	{
-		"color":"white",
-		"rgb":[255, 255, 255, 1]
-	},
-	{
-		"color":"whitesmoke",
-		"rgb":[245, 245, 245, 1]
-	},
-	{
-		"color":"yellow",
-		"rgb":[255, 255, 0, 1]
-	},
-	{
-		"color":"yellowgreen",
-		"rgb":[154, 205, 50, 1]
-	},
-	{
-		"color":"rebeccapurple",
-		"rgb":[102, 51, 153, 1]
-    }
-]
+{
+	"color":
+	[
+		{
+			"color":"aliceblue",
+			"rgb":[240, 248, 255, 1]
+		},
+		{
+			"color":"antiquewhite",
+			"rgb":[250, 235, 215, 1]
+		},
+		{
+			"color":"aqua",
+			"rgb":[0, 255, 255, 1]
+		},
+		{
+			"color":"aquamarine",
+			"rgb":[127, 255, 212, 1]
+		},
+		{
+			"color":"azure",
+			"rgb":[240, 255, 255, 1]
+		},
+		{
+			"color":"beige",
+			"rgb":[245, 245, 220, 1]
+		},
+		{
+			"color":"bisque",
+			"rgb":[255, 228, 196, 1]
+		},
+		{
+			"color":"black",
+			"rgb":[0, 0, 0, 1]
+		},
+		{
+			"color":"blanchedalmond",
+			"rgb":[255, 235, 205, 1]
+		},
+		{
+			"color":"blue",
+			"rgb":[0, 0, 255, 1]
+		},
+		{
+			"color":"blueviolet",
+			"rgb":[138, 43, 226, 1]
+		},
+		{
+			"color":"brown",
+			"rgb":[165, 42, 42, 1]
+		},
+		{
+			"color":"burlywood",
+			"rgb":[222, 184, 135, 1]
+		},
+		{
+			"color":"cadetblue",
+			"rgb":[95, 158, 160, 1]
+		},
+		{
+			"color":"chartreuse",
+			"rgb":[127, 255, 0, 1]
+		},
+		{
+			"color":"chocolate",
+			"rgb":[210, 105, 30, 1]
+		},
+		{
+			"color":"coral",
+			"rgb":[255, 127, 80, 1]
+		},
+		{
+			"color":"cornflowerblue",
+			"rgb":[100, 149, 237, 1]
+		},
+		{
+			"color":"cornsilk",
+			"rgb":[255, 248, 220, 1]
+		},
+		{
+			"color":"crimson",
+			"rgb":[220, 20, 60, 1]
+		},
+		{
+			"color":"cyan",
+			"rgb":[0, 255, 255, 1]
+		},
+		{
+			"color":"darkblue",
+			"rgb":[0, 0, 139, 1]
+		},
+		{
+			"color":"darkcyan",
+			"rgb":[0, 139, 139, 1]
+		},
+		{
+			"color":"darkgoldenrod",
+			"rgb":[184, 134, 11, 1]
+		},
+		{
+			"color":"darkgray",
+			"rgb":[169, 169, 169, 1]
+		},
+		{
+			"color":"darkgreen",
+			"rgb":[0, 100, 0, 1]
+		},
+		{
+			"color":"darkgrey",
+			"rgb":[169, 169, 169, 1]
+		},
+		{
+			"color":"darkkhaki",
+			"rgb":[189, 183, 107, 1]
+		},
+		{
+			"color":"darkmagenta",
+			"rgb":[139, 0, 139, 1]
+		},
+		{
+			"color":"darkolivegreen",
+			"rgb":[85, 107, 47, 1]
+		},
+		{
+			"color":"darkorange",
+			"rgb":[255, 140, 0, 1]
+		},
+		{
+			"color":"darkorchid",
+			"rgb":[153, 50, 204, 1]
+		},
+		{
+			"color":"darkred",
+			"rgb":[139, 0, 0, 1]
+		},
+		{
+			"color":"darksalmon",
+			"rgb":[233, 150, 122, 1]
+		},
+		{
+			"color":"darkseagreen",
+			"rgb":[143, 188, 143, 1]
+		},
+		{
+			"color":"darkslateblue",
+			"rgb":[72, 61, 139, 1]
+		},
+		{
+			"color":"darkslategray",
+			"rgb":[47, 79, 79, 1]
+		},
+		{
+			"color":"darkslategrey",
+			"rgb":[47, 79, 79, 1]
+		},
+		{
+			"color":"darkturquoise",
+			"rgb":[0, 206, 209, 1]
+		},
+		{
+			"color":"darkviolet",
+			"rgb":[148, 0, 211, 1]
+		},
+		{
+			"color":"deeppink",
+			"rgb":[255, 20, 147, 1]
+		},
+		{
+			"color":"deepskyblue",
+			"rgb":[0, 191, 255, 1]
+		},
+		{
+			"color":"dimgray",
+			"rgb":[105, 105, 105, 1]
+		},
+		{
+			"color":"dimgrey",
+			"rgb":[105, 105, 105, 1]
+		},
+		{
+			"color":"dodgerblue",
+			"rgb":[30, 144, 255, 1]
+		},
+		{
+			"color":"firebrick",
+			"rgb":[178, 34, 34, 1]
+		},
+		{
+			"color":"floralwhite",
+			"rgb":[255, 250, 240, 1]
+		},
+		{
+			"color":"forestgreen",
+			"rgb":[34, 139, 34, 1]
+		},
+		{
+			"color":"fuchsia",
+			"rgb":[255, 0, 255, 1]
+		},
+		{
+			"color":"gainsboro",
+			"rgb":[220, 220, 220, 1]
+		},
+		{
+			"color":"ghostwhite",
+			"rgb":[248, 248, 255, 1]
+		},
+		{
+			"color":"gold",
+			"rgb":[255, 215, 0, 1]
+		},
+		{
+			"color":"goldenrod",
+			"rgb":[218, 165, 32, 1]
+		},
+		{
+			"color":"gray",
+			"rgb":[128, 128, 128, 1]
+		},
+		{
+			"color":"green",
+			"rgb":[0, 128, 0, 1]
+		},
+		{
+			"color":"greenyellow",
+			"rgb":[173, 255, 47, 1]
+		},
+		{
+			"color":"grey",
+			"rgb":[128, 128, 128, 1]
+		},
+		{
+			"color":"honeydew",
+			"rgb":[240, 255, 240, 1]
+		},
+		{
+			"color":"hotpink",
+			"rgb":[255, 105, 180, 1]
+		},
+		{
+			"color":"indianred",
+			"rgb":[205, 92, 92, 1]
+		},
+		{
+			"color":"indigo",
+			"rgb":[75, 0, 130, 1]
+		},
+		{
+			"color":"ivory",
+			"rgb":[255, 255, 240, 1]
+		},
+		{
+			"color":"khaki",
+			"rgb":[240, 230, 140, 1]
+		},
+		{
+			"color":"lavender",
+			"rgb":[230, 230, 250, 1]
+		},
+		{
+			"color":"lavenderblush",
+			"rgb":[255, 240, 245, 1]
+		},
+		{
+			"color":"lawngreen",
+			"rgb":[124, 252, 0, 1]
+		},
+		{
+			"color":"lemonchiffon",
+			"rgb":[255, 250, 205, 1]
+		},
+		{
+			"color":"lightblue",
+			"rgb":[173, 216, 230, 1]
+		},
+		{
+			"color":"lightcoral",
+			"rgb":[240, 128, 128, 1]
+		},
+		{
+			"color":"lightcyan",
+			"rgb":[224, 255, 255, 1]
+		},
+		{
+			"color":"lightgoldenrodyellow",
+			"rgb":[250, 250, 210, 1]
+		},
+		{
+			"color":"lightgray",
+			"rgb":[211, 211, 211, 1]
+		},
+		{
+			"color":"lightgreen",
+			"rgb":[144, 238, 144, 1]
+		},
+		{
+			"color":"lightgrey",
+			"rgb":[211, 211, 211, 1]
+		},
+		{
+			"color":"lightpink",
+			"rgb":[255, 182, 193, 1]
+		},
+		{
+			"color":"lightsalmon",
+			"rgb":[255, 160, 122, 1]
+		},
+		{
+			"color":"lightseagreen",
+			"rgb":[32, 178, 170, 1]
+		},
+		{
+			"color":"lightskyblue",
+			"rgb":[135, 206, 250, 1]
+		},
+		{
+			"color":"lightslategray",
+			"rgb":[119, 136, 153, 1]
+		},
+		{
+			"color":"lightslategrey",
+			"rgb":[119, 136, 153, 1]
+		},
+		{
+			"color":"lightsteelblue",
+			"rgb":[176, 196, 222, 1]
+		},
+		{
+			"color":"lightyellow",
+			"rgb":[255, 255, 224, 1]
+		},
+		{
+			"color":"lime",
+			"rgb":[0, 255, 0, 1]
+		},
+		{
+			"color":"limegreen",
+			"rgb":[50, 205, 50, 1]
+		},
+		{
+			"color":"linen",
+			"rgb":[250, 240, 230, 1]
+		},
+		{
+			"color":"magenta",
+			"rgb":[255, 0, 255, 1]
+		},
+		{
+			"color":"maroon",
+			"rgb":[128, 0, 0, 1]
+		},
+		{
+			"color":"mediumaquamarine",
+			"rgb":[102, 205, 170, 1]
+		},
+		{
+			"color":"mediumblue",
+			"rgb":[0, 0, 205, 1]
+		},
+		{
+			"color":"mediumorchid",
+			"rgb":[186, 85, 211, 1]
+		},
+		{
+			"color":"mediumpurple",
+			"rgb":[147, 112, 219, 1]
+		},
+		{
+			"color":"mediumseagreen",
+			"rgb":[60, 179, 113, 1]
+		},
+		{
+			"color":"mediumslateblue",
+			"rgb":[123, 104, 238, 1]
+		},
+		{
+			"color":"mediumspringgreen",
+			"rgb":[0, 250, 154, 1]
+		},
+		{
+			"color":"mediumturquoise",
+			"rgb":[72, 209, 204, 1]
+		},
+		{
+			"color":"mediumvioletred",
+			"rgb":[199, 21, 133, 1]
+		},
+		{
+			"color":"midnightblue",
+			"rgb":[25, 25, 112, 1]
+		},
+		{
+			"color":"mintcream",
+			"rgb":[245, 255, 250, 1]
+		},
+		{
+			"color":"mistyrose",
+			"rgb":[255, 228, 225, 1]
+		},
+		{
+			"color":"moccasin",
+			"rgb":[255, 228, 181, 1]
+		},
+		{
+			"color":"navajowhite",
+			"rgb":[255, 222, 173, 1]
+		},
+		{
+			"color":"navy",
+			"rgb":[0, 0, 128, 1]
+		},
+		{
+			"color":"oldlace",
+			"rgb":[253, 245, 230, 1]
+		},
+		{
+			"color":"olive",
+			"rgb":[128, 128, 0, 1]
+		},
+		{
+			"color":"olivedrab",
+			"rgb":[107, 142, 35, 1]
+		},
+		{
+			"color":"orange",
+			"rgb":[255, 165, 0, 1]
+		},
+		{
+			"color":"orangered",
+			"rgb":[255, 69, 0, 1]
+		},
+		{
+			"color":"orchid",
+			"rgb":[218, 112, 214, 1]
+		},
+		{
+			"color":"palegoldenrod",
+			"rgb":[238, 232, 170, 1]
+		},
+		{
+			"color":"palegreen",
+			"rgb":[152, 251, 152, 1]
+		},
+		{
+			"color":"paleturquoise",
+			"rgb":[175, 238, 238, 1]
+		},
+		{
+			"color":"palevioletred",
+			"rgb":[219, 112, 147, 1]
+		},
+		{
+			"color":"papayawhip",
+			"rgb":[255, 239, 213, 1]
+		},
+		{
+			"color":"peachpuff",
+			"rgb":[255, 218, 185, 1]
+		},
+		{
+			"color":"peru",
+			"rgb":[205, 133, 63, 1]
+		},
+		{
+			"color":"pink",
+			"rgb":[255, 192, 203, 1]
+		},
+		{
+			"color":"plum",
+			"rgb":[221, 160, 221, 1]
+		},
+		{
+			"color":"powderblue",
+			"rgb":[176, 224, 230, 1]
+		},
+		{
+			"color":"purple",
+			"rgb":[128, 0, 128, 1]
+		},
+		{
+			"color":"red",
+			"rgb":[255, 0, 0, 1]
+		},
+		{
+			"color":"rosybrown",
+			"rgb":[188, 143, 143, 1]
+		},
+		{
+			"color":"royalblue",
+			"rgb":[65, 105, 225, 1]
+		},
+		{
+			"color":"saddlebrown",
+			"rgb":[139, 69, 19, 1]
+		},
+		{
+			"color":"salmon",
+			"rgb":[250, 128, 114, 1]
+		},
+		{
+			"color":"sandybrown",
+			"rgb":[244, 164, 96, 1]
+		},
+		{
+			"color":"seagreen",
+			"rgb":[46, 139, 87, 1]
+		},
+		{
+			"color":"seashell",
+			"rgb":[255, 245, 238, 1]
+		},
+		{
+			"color":"sienna",
+			"rgb":[160, 82, 45, 1]
+		},
+		{
+			"color":"silver",
+			"rgb":[192, 192, 192, 1]
+		},
+		{
+			"color":"skyblue",
+			"rgb":[135, 206, 235, 1]
+		},
+		{
+			"color":"slateblue",
+			"rgb":[106, 90, 205, 1]
+		},
+		{
+			"color":"slategray",
+			"rgb":[112, 128, 144, 1]
+		},
+		{
+			"color":"slategrey",
+			"rgb":[112, 128, 144, 1]
+		},
+		{
+			"color":"snow",
+			"rgb":[255, 250, 250, 1]
+		},
+		{
+			"color":"springgreen",
+			"rgb":[0, 255, 127, 1]
+		},
+		{
+			"color":"steelblue",
+			"rgb":[70, 130, 180, 1]
+		},
+		{
+			"color":"tan",
+			"rgb":[210, 180, 140, 1]
+		},
+		{
+			"color":"teal",
+			"rgb":[0, 128, 128, 1]
+		},
+		{
+			"color":"thistle",
+			"rgb":[216, 191, 216, 1]
+		},
+		{
+			"color":"tomato",
+			"rgb":[255, 99, 71, 1]
+		},
+		{
+			"color":"transparent",
+			"rgb":[0, 0, 0, 0]
+		},
+		{
+			"color":"turquoise",
+			"rgb":[64, 224, 208, 1]
+		},
+		{
+			"color":"violet",
+			"rgb":[238, 130, 238, 1]
+		},
+		{
+			"color":"wheat",
+			"rgb":[245, 222, 179, 1]
+		},
+		{
+			"color":"white",
+			"rgb":[255, 255, 255, 1]
+		},
+		{
+			"color":"whitesmoke",
+			"rgb":[245, 245, 245, 1]
+		},
+		{
+			"color":"yellow",
+			"rgb":[255, 255, 0, 1]
+		},
+		{
+			"color":"yellowgreen",
+			"rgb":[154, 205, 50, 1]
+		},
+		{
+			"color":"rebeccapurple",
+			"rgb":[102, 51, 153, 1]
+	    }
+	]
+}
